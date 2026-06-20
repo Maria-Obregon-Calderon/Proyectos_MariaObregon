@@ -1,4 +1,4 @@
-Buenos días / tardes / noches, persona usuaria. Mi nombre es María Paula Obregón Calderón, estudiante de IA, y soy la creadora estos códigos :D/
+Buenos días / tardes / noches, persona usuaria. Mi nombre es María Obregón, estudiante de IA y desarrollo de software, y soy la creadora de estos códigos.
 
 Solo como recordatorio, aquí están los pasos:
 
