@@ -1,6 +1,6 @@
 Buenos días / tardes / noches, persona usuaria. Mi nombre es María Paula Obregón Calderón, estudiante de IA, y soy la creadora estos códigos :D/
 
-Solo como recordatorio, aqupi están los pasos:
+Solo como recordatorio, aquí están los pasos:
 
 1. Haz una carpeta llamada "docs" para guardar los archivos pre-limpios manualmente.
 2. Abre el programa "Preprocesamiento_texto" para limpiar, tokenizar, lemantizar y procesar todo el texto que usted necesite
