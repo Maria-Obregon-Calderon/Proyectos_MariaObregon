@@ -6,8 +6,8 @@
 
 De la siguiente manera:
 
-pip install wordcloud
-pip install matplotlib
+- pip install wordcloud
+- pip install matplotlib
 
 
 **Utilizar este código con archivos .txt para más efectividad**
