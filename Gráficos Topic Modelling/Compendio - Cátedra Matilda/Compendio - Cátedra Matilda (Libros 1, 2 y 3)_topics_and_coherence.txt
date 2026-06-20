@@ -1,0 +1,7 @@
+(0, '0.000*"notable" + 0.000*"lac" + 0.000*"sostenible" + 0.000*"plan_estratégico" + 0.000*"utn" + 0.000*"disparidad_género" + 0.000*"pregunta_investigación" + 0.000*"constructo" + 0.000*"recurso_estratégico" + 0.000*"vocación_científico"')
+(1, '0.002*"lac" + 0.002*"mentora" + 0.002*"currículo" + 0.002*"constructo" + 0.002*"investigación_formativo" + 0.002*"utn" + 0.002*"actitud_favorable" + 0.002*"recurso_estratégico" + 0.002*"actitud_ciencia" + 0.001*"sostenible"')
+(2, '0.000*"estilo_aprendizaje" + 0.000*"investigación_formativo" + 0.000*"sostenible" + 0.000*"lac" + 0.000*"notable" + 0.000*"disparidad_género" + 0.000*"financiero" + 0.000*"pregunta_investigación" + 0.000*"mentora" + 0.000*"situación_problemático"')
+(3, '0.000*"sostenible" + 0.000*"estilo_aprendizaje" + 0.000*"currículo" + 0.000*"investigación_formativo" + 0.000*"notable" + 0.000*"lac" + 0.000*"financiero" + 0.000*"honduras" + 0.000*"disparidad_género" + 0.000*"wie"')
+(4, '0.005*"estilo_aprendizaje" + 0.004*"honduras" + 0.003*"sostenible" + 0.003*"situación_problemático" + 0.003*"notable" + 0.003*"visita" + 0.003*"semillero" + 0.003*"clasificación" + 0.003*"producción_científico" + 0.003*"quinua"')
+
+Coherence Score:  0.626982824474

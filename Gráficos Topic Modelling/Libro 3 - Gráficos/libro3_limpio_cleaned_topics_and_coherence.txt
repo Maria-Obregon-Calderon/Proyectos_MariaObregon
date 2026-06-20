@@ -1,0 +1,7 @@
+(0, '0.004*"mujer" + 0.002*"género" + 0.002*"estudiante" + 0.001*"ingeniería" + 0.001*"poder" + 0.001*"stem" + 0.001*"estudio" + 0.001*"investigación" + 0.001*"análisis" + 0.001*"programa"')
+(1, '0.022*"mujer" + 0.010*"ingeniería" + 0.010*"género" + 0.010*"estudiante" + 0.009*"poder" + 0.007*"stem" + 0.006*"estudio" + 0.005*"investigación" + 0.004*"hombre" + 0.004*"programa"')
+(2, '0.000*"mujer" + 0.000*"poder" + 0.000*"ingeniería" + 0.000*"género" + 0.000*"estudiante" + 0.000*"stem" + 0.000*"investigación" + 0.000*"hombre" + 0.000*"estudio" + 0.000*"proyecto"')
+(3, '0.002*"mujer" + 0.001*"ingeniería" + 0.001*"estudiante" + 0.001*"poder" + 0.001*"stem" + 0.001*"estudio" + 0.001*"género" + 0.001*"permitir" + 0.001*"investigación" + 0.000*"enfoque"')
+(4, '0.002*"mujer" + 0.001*"estudiante" + 0.001*"ingeniería" + 0.001*"poder" + 0.001*"género" + 0.001*"stem" + 0.001*"investigación" + 0.001*"estudio" + 0.001*"hombre" + 0.001*"permitir"')
+
+Coherence Score:  0.253014260642

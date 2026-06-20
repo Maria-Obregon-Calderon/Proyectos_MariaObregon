@@ -1,0 +1,7 @@
+(0, '0.000*"sostenible" + 0.000*"notable" + 0.000*"investigación_formativo" + 0.000*"estilo_aprendizaje" + 0.000*"lac" + 0.000*"mentoro" + 0.000*"disparidad_género" + 0.000*"clasificación" + 0.000*"financiero" + 0.000*"entrevistado"')
+(1, '0.004*"recurso_estratégico" + 0.003*"entrevistado" + 0.003*"plan_estratégico" + 0.003*"owsd" + 0.003*"wie" + 0.003*"mentoro" + 0.003*"vocación_científico" + 0.002*"prototipo" + 0.002*"conocimiento_contenido" + 0.002*"mentoreo"')
+(2, '0.000*"lac" + 0.000*"sostenible" + 0.000*"estilo_aprendizaje" + 0.000*"constructo" + 0.000*"investigación_formativo" + 0.000*"disparidad_género" + 0.000*"financiero" + 0.000*"actitud_favorable" + 0.000*"plazo" + 0.000*"notable"')
+(3, '0.003*"lac" + 0.003*"investigación_formativo" + 0.003*"constructo" + 0.003*"actitud_favorable" + 0.002*"sostenible" + 0.002*"financiero" + 0.002*"utn" + 0.002*"revisión_sistemático" + 0.002*"disparidad_género" + 0.002*"desacuerdo"')
+(4, '0.005*"estilo_aprendizaje" + 0.003*"notable" + 0.003*"sostenible" + 0.003*"situación_problemático" + 0.003*"semillero" + 0.003*"producción_científico" + 0.003*"clasificación" + 0.002*"calidad_sueño" + 0.002*"quinuar" + 0.002*"cargo_liderazgo"')
+
+Coherence Score:  0.642004248037
