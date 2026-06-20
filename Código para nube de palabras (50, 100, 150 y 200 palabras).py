@@ -206,7 +206,7 @@ label_estilo.pack(pady=10)
 # Generar nubes de palabras
 tk.Button(
     frame,
-    text="✨ Generar nubes de palabras ✨",
+    text="Generar nubes de palabras",
     width=30,
     height=2,
     bg=BTN_BG, fg=FG_TEXT,
